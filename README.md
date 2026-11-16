@@ -1,3 +1,83 @@
+<p align="center">
+  <img src="mytv/assets/logo.png" width="128" alt="My TV logo">
+</p>
+
+<h1 align="center">My TV</h1>
+
+<p align="center">
+  কম্পিউটারেই নিজের Google TV — সুন্দর হোম স্ক্রিন, FalconCast সহ, এক ক্লিকে update।
+</p>
+
+<p align="center">
+  <a href="https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.0/MyTV-mac-1.0.0.zip"><img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Windows-%E0%A6%B6%E0%A7%80%E0%A6%98%E0%A7%8D%E0%A6%B0%E0%A6%87%20%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows: শীঘ্রই আসছে">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-6A4CF0" alt="version 1.0.0">
+  <img src="https://img.shields.io/badge/macOS-13%2B%20·%20Apple%20Silicon%20%2B%20Intel-555" alt="macOS 13+">
+  <a href="https://github.com/shakilnextive-beep/tv-tool-app/discussions"><img src="https://img.shields.io/badge/মতামত-দিন-2EA44F" alt="মতামত দিন"></a>
+</p>
+
+<p align="center">
+  <img src="mytv/assets/screenshot-mac.jpg" width="860" alt="My TV on a Mac">
+</p>
+
+## কী আছে
+
+- **নিজের Google TV, কম্পিউটারের জানালায়** — মাউস, কীবোর্ড আর পাশে একটা গাঢ় সাইডবার: পাওয়ার, ভলিউম, স্ক্রিনশট, অ্যাপ ইনস্টল, ফাইল পাঠানো, Mobile view।
+- **Lite Home** — হালকা আর দ্রুত হোম স্ক্রিন। বাছা অ্যাপের রঙে পেছনে নরম আলো, মাউস রাখলেই টাইল মসৃণভাবে বড় হয়।
+- **FalconCast** আগে থেকেই বসানো।
+- **নিজের ওয়ালপেপার** — কম্পিউটার থেকে যেকোনো ছবি সাইডবারের ওয়ালপেপার বোতামে, বা টিভির উপর টেনে ছেড়ে।
+- **এক ক্লিকে update** — নতুন সংস্করণ এলে notification আসে, এক ক্লিকে update। টিভি চালুই থাকে।
+
+<p align="center">
+  <img src="mytv/assets/screenshot-home.jpg" width="49%" alt="Lite Home">
+  <img src="mytv/assets/screenshot-wallpaper.jpg" width="49%" alt="ওয়ালপেপার বাছাই">
+</p>
+
+## Download আর বসানো
+
+### macOS (Apple Silicon ও Intel, macOS 13 বা নতুন)
+
+1. **[MyTV-mac-1.0.0.zip](https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.0/MyTV-mac-1.0.0.zip)** নামান (~২৯ MB), খুলুন, **My TV**-কে Applications-এ টেনে রাখুন।
+2. প্রথমবার: **My TV-তে ডান-ক্লিক → Open → Open**। (অ্যাপটা Apple-এর পেইড সার্টিফিকেটে সাইন করা নয়, তাই macOS একবার জিজ্ঞেস করে। পরে আর লাগে না।)
+3. My TV Google-এর লাইসেন্স দেখাবে। রাজি হলে Google থেকে Android emulator আর Google TV (~১.২ GB) নামিয়ে টিভি বানাবে। ডিস্কে অন্তত ৬ GB খালি রাখুন।
+4. প্রথম চালু হতে ১-২ মিনিট লাগে। তারপর থেকে আইকনে ক্লিক করলেই টিভি।
+
+### Windows
+
+শীঘ্রই আসছে।
+
+## Update
+
+My TV নিজেই নতুন সংস্করণ খোঁজে। এলে notification আসবে আর সাইডবারের ⬇︎ বোতাম নীল হবে। এক ক্লিকে update, টিভি চালু থাকে।
+নিজে দেখতে চাইলে সাইডবারের ⬇︎ বোতাম চাপুন।
+
+## মতামত আর পরামর্শ
+
+আপনার মতামত খুব দরকারি।
+
+- **রিভিউ বা পরামর্শ:** [Discussions](https://github.com/shakilnextive-beep/tv-tool-app/discussions) → New discussion
+- **কোনো সমস্যা হলে:** [Issues](https://github.com/shakilnextive-beep/tv-tool-app/issues/new/choose) → "সমস্যা জানান"
+
+## Creator
+
+**Md. Shakil** · [shakil.nextive@gmail.com](mailto:shakil.nextive@gmail.com)
+
+<details>
+<summary>কৃতজ্ঞতা ও লাইসেন্স</summary>
+
+- টিভির ছবি দেখায় [scrcpy](https://github.com/Genymobile/scrcpy) (Apache 2.0)।
+- Android emulator আর Google TV ইমেজ Google-এর; প্রথম চালুর সময় আপনি নিজে Google-এর লাইসেন্সে রাজি হয়ে সরাসরি Google থেকে নামান।
+- FalconCast তার নির্মাতার অনুমতিতে দেওয়া।
+- ওয়ালপেপার ছবি: Unsplash।
+
+</details>
+
+---
+
 # TV Tool — ফোন থেকে Android TV / Google TV সাজানো
 
 ফোন থেকেই টিভি পরিষ্কার, দ্রুত আর নিজের মতো করে সাজান। কম্পিউটার লাগে না।
