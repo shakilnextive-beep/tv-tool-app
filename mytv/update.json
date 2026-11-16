@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
-  "notes": "ঠিক করা হলো: প্রথম চালুর সেটআপে টিভি চালু হচ্ছিল না। এখন চালু হওয়ার সময় একটা জানালা দেখায়, আর My TV নিজেকে Applications-এ রাখতে পারে।",
+  "version": "1.0.2",
+  "notes": "মোবাইল রিমোট (QR স্ক্যান করে ফোন থেকে টিভি চালান); সাইডবার টিভির সাথে লাগানো ও সাথে সাথে চলে; Applications-এ রাখার প্রশ্ন একবারই",
   "date": "2026-11-16",
   "mac": {
-    "url": "https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.1/MyTV-mac-1.0.1.zip",
-    "sha256": "d549cff198aec1109f3f8b6ba291283b063e0a757ef43556b441cf73316614fd",
-    "size": 29295881
+    "url": "https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.2/MyTV-mac-1.0.2.zip",
+    "sha256": "71f73207f0b8f4fa35b8bdc7dc6dab9bde2bd136353b45d0ae54f3c877b95584",
+    "size": 29347532
   }
 }
