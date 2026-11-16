@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
-  "notes": "প্রথম সংস্করণ: My TV + Lite Home + FalconCast",
+  "version": "1.0.1",
+  "notes": "ঠিক করা হলো: প্রথম চালুর সেটআপে টিভি চালু হচ্ছিল না। এখন চালু হওয়ার সময় একটা জানালা দেখায়, আর My TV নিজেকে Applications-এ রাখতে পারে।",
   "date": "2026-11-16",
   "mac": {
-    "url": "https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.0/MyTV-mac-1.0.0.zip",
-    "sha256": "1ade7e482de5a8b00a8d5d951db03f2ae118a0bdc9b15df07365b740cfc5d827",
-    "size": 29284348
+    "url": "https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.1/MyTV-mac-1.0.1.zip",
+    "sha256": "d549cff198aec1109f3f8b6ba291283b063e0a757ef43556b441cf73316614fd",
+    "size": 29295881
   }
 }
