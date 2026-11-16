@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.0/MyTV-mac-1.0.0.zip"><img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
+  <a href="https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.1/MyTV-mac-1.0.1.zip"><img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Windows-%E0%A6%B6%E0%A7%80%E0%A6%98%E0%A7%8D%E0%A6%B0%E0%A6%87%20%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows: শীঘ্রই আসছে">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-6A4CF0" alt="version 1.0.0">
+  <img src="https://img.shields.io/badge/version-1.0.1-6A4CF0" alt="version 1.0.1">
   <img src="https://img.shields.io/badge/macOS-13%2B%20·%20Apple%20Silicon%20%2B%20Intel-555" alt="macOS 13+">
   <a href="https://github.com/shakilnextive-beep/tv-tool-app/discussions"><img src="https://img.shields.io/badge/মতামত-দিন-2EA44F" alt="মতামত দিন"></a>
 </p>
@@ -41,8 +41,8 @@
 
 ### macOS (Apple Silicon ও Intel, macOS 13 বা নতুন)
 
-1. **[MyTV-mac-1.0.0.zip](https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.0/MyTV-mac-1.0.0.zip)** নামান (~২৯ MB), খুলুন, **My TV**-কে Applications-এ টেনে রাখুন।
-2. প্রথমবার: **My TV-তে ডান-ক্লিক → Open → Open**। (অ্যাপটা Apple-এর পেইড সার্টিফিকেটে সাইন করা নয়, তাই macOS একবার জিজ্ঞেস করে। পরে আর লাগে না।)
+1. **[MyTV-mac-1.0.1.zip](https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.1/MyTV-mac-1.0.1.zip)** নামান (~২৯ MB), খুলুন, **My TV**-কে Applications-এ টেনে রাখুন।
+2. প্রথমবার: **My TV-তে ডান-ক্লিক → Open → Open** (না হলে System Settings → Privacy & Security → **Open Anyway**)। My TV জিজ্ঞেস করলে **Applications ফোল্ডারে রাখুন**। (অ্যাপটা Apple-এর পেইড সার্টিফিকেটে সাইন করা নয়, তাই macOS একবার জিজ্ঞেস করে। পরে আর লাগে না।)
 3. My TV Google-এর লাইসেন্স দেখাবে। রাজি হলে Google থেকে Android emulator আর Google TV (~১.২ GB) নামিয়ে টিভি বানাবে। ডিস্কে অন্তত ৬ GB খালি রাখুন।
 4. প্রথম চালু হতে ১-২ মিনিট লাগে। তারপর থেকে আইকনে ক্লিক করলেই টিভি।
 
