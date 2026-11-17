@@ -1,19 +1,19 @@
 name: সমস্যা জানান (Bug)
-description: My TV বা TV Tool-এ কিছু ঠিকমতো কাজ করছে না
+description: Screen Box (আগের নাম My TV) বা TV Tool-এ কিছু ঠিকমতো কাজ করছে না
 labels: [bug]
 body:
   - type: dropdown
     id: app
     attributes:
       label: কোন অ্যাপে?
-      options: [My TV (Mac), My TV (Windows), Lite Home, TV Tool ফোন অ্যাপ]
+      options: [Screen Box (Mac), Screen Box (Windows), Lite Home, TV Tool ফোন অ্যাপ]
     validations:
       required: true
   - type: input
     id: version
     attributes:
       label: সংস্করণ
-      description: My TV-তে সাইডবারের ⓘ বোতামে দেখা যায়
+      description: Screen Box-এ সাইডবারের ⓘ বোতামে দেখা যায়
       placeholder: "1.0.0"
   - type: textarea
     id: what

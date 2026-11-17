@@ -1,27 +1,28 @@
 <p align="center">
-  <img src="mytv/assets/logo.png" width="128" alt="My TV logo">
+  <img src="mytv/assets/logo.png" width="128" alt="Screen Box logo">
 </p>
 
-<h1 align="center">My TV</h1>
+<h1 align="center">Screen Box</h1>
+<p align="center"><sub>আগের নাম My TV। যাদের কাছে My TV আছে, তারা update নিলেই নিজে থেকে Screen Box হয়ে যাবে।</sub></p>
 
 <p align="center">
   কম্পিউটারেই নিজের Google TV — সুন্দর হোম স্ক্রিন, FalconCast সহ, এক ক্লিকে update।
 </p>
 
 <p align="center">
-  <a href="https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.2/MyTV-mac-1.0.2.zip"><img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
+  <a href="https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.3/ScreenBox-mac-1.0.3.zip"><img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Windows-%E0%A6%B6%E0%A7%80%E0%A6%98%E0%A7%8D%E0%A6%B0%E0%A6%87%20%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows: শীঘ্রই আসছে">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.2-6A4CF0" alt="version 1.0.2">
+  <img src="https://img.shields.io/badge/version-1.0.3-6A4CF0" alt="version 1.0.3">
   <img src="https://img.shields.io/badge/macOS-13%2B%20·%20Apple%20Silicon%20%2B%20Intel-555" alt="macOS 13+">
   <a href="https://github.com/shakilnextive-beep/tv-tool-app/discussions"><img src="https://img.shields.io/badge/মতামত-দিন-2EA44F" alt="মতামত দিন"></a>
 </p>
 
 <p align="center">
-  <img src="mytv/assets/screenshot-mac.jpg" width="860" alt="My TV on a Mac">
+  <img src="mytv/assets/screenshot-mac.jpg" width="860" alt="Screen Box on a Mac">
 </p>
 
 ## কী আছে
@@ -42,9 +43,9 @@
 
 ### macOS (Apple Silicon ও Intel, macOS 13 বা নতুন)
 
-1. **[MyTV-mac-1.0.2.zip](https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.2/MyTV-mac-1.0.2.zip)** নামান (~২৯ MB), খুলুন, **My TV**-কে Applications-এ টেনে রাখুন।
-2. প্রথমবার: **My TV-তে ডান-ক্লিক → Open → Open** (না হলে System Settings → Privacy & Security → **Open Anyway**)। My TV জিজ্ঞেস করলে **Applications ফোল্ডারে রাখুন**। (অ্যাপটা Apple-এর পেইড সার্টিফিকেটে সাইন করা নয়, তাই macOS একবার জিজ্ঞেস করে। পরে আর লাগে না।)
-3. My TV Google-এর লাইসেন্স দেখাবে। রাজি হলে Google থেকে Android emulator আর Google TV (~১.২ GB) নামিয়ে টিভি বানাবে। ডিস্কে অন্তত ৬ GB খালি রাখুন।
+1. **[ScreenBox-mac-1.0.3.zip](https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.3/ScreenBox-mac-1.0.3.zip)** নামান (~২৯ MB), খুলুন, **Screen Box**-কে Applications-এ টেনে রাখুন।
+2. প্রথমবার: **Screen Box-তে ডান-ক্লিক → Open → Open** (না হলে System Settings → Privacy & Security → **Open Anyway**)। Screen Box জিজ্ঞেস করলে **Applications ফোল্ডারে রাখুন**। (অ্যাপটা Apple-এর পেইড সার্টিফিকেটে সাইন করা নয়, তাই macOS একবার জিজ্ঞেস করে। পরে আর লাগে না।)
+3. Screen Box Google-এর লাইসেন্স দেখাবে। রাজি হলে Google থেকে Android emulator আর Google TV (~১.২ GB) নামিয়ে টিভি বানাবে। ডিস্কে অন্তত ৬ GB খালি রাখুন।
 4. প্রথম চালু হতে ১-২ মিনিট লাগে। তারপর থেকে আইকনে ক্লিক করলেই টিভি।
 
 ### Windows
@@ -53,7 +54,7 @@
 
 ## Update
 
-My TV নিজেই নতুন সংস্করণ খোঁজে। এলে notification আসবে আর সাইডবারের ⬇︎ বোতাম নীল হবে। এক ক্লিকে update, টিভি চালু থাকে।
+Screen Box নিজেই নতুন সংস্করণ খোঁজে। এলে notification আসবে আর সাইডবারের ⬇︎ বোতাম নীল হবে। এক ক্লিকে update, টিভি চালু থাকে।
 নিজে দেখতে চাইলে সাইডবারের ⬇︎ বোতাম চাপুন।
 
 ## মতামত আর পরামর্শ
