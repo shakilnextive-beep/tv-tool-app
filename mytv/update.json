@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
-  "notes": "মোবাইল রিমোট (QR স্ক্যান করে ফোন থেকে টিভি চালান); সাইডবার টিভির সাথে লাগানো ও সাথে সাথে চলে; Applications-এ রাখার প্রশ্ন একবারই",
-  "date": "2026-11-16",
+  "version": "1.0.3",
+  "notes": "New name: Screen Box, with a new look: an Apple TV style home (clock, date, big app name, glass dock), a SCREEN BOX intro and the Montserrat font. With no internet the TV waits on the intro with a loading circle and opens as soon as it is online. Settings button on the phone remote; English everywhere; Turn off is instant. Old copies are removed after the update.",
+  "date": "2026-11-17",
   "mac": {
-    "url": "https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.2/MyTV-mac-1.0.2.zip",
-    "sha256": "71f73207f0b8f4fa35b8bdc7dc6dab9bde2bd136353b45d0ae54f3c877b95584",
-    "size": 29347532
+    "url": "https://github.com/shakilnextive-beep/tv-tool-app/releases/download/mytv-v1.0.3/MyTV-mac-1.0.3.zip",
+    "sha256": "503a560a3948ad4f542db5b5734f61362f6f395d7d0058e0ca0f2bce75e13e5b",
+    "size": 29416424
   }
 }
